@@ -1,0 +1,5 @@
+[project]
+name = "freight-rate-assessment"
+version = "1.0.0"
+description = "Reproducible freight-rate model assessment"
+requires-python = ">=3.11"

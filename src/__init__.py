@@ -1,0 +1,1 @@
+"""Freight-rate assessment package."""

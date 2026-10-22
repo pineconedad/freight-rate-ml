@@ -1,0 +1,15 @@
+.DS_Store
+.venv/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+
+# Private preparation and assessment materials
+docs/
+tests/
+freight-rate-ml-assessment-1-.pdf
+
+# Reproducible intermediate artifacts
+artifacts/
+scorer_results/
+outputs/december_predictions.csv
